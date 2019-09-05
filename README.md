@@ -5,6 +5,7 @@
 
 ## 使用Docker-Compose快速部署
 ##### 1.安装Docker
+centos7:yum install deltarpm
 [安装docker，安装docker-compose](http://get.daocloud.io/#install-docker)
 ##### 2.下载`docker-compose.yml`并启动服务
 下载 `wget https://raw.githubusercontent.com/zsnmwy/Tieba-Cloud-Sign/master/docker-compose.yml`  
